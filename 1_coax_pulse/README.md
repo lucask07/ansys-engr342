@@ -5,7 +5,7 @@
 Launch ANSYS Electronics Desktop: 
 
 1. Windows Start Menu -> Ansys EM Suite 19.2 -> ANSYS Electronics Desktop 2018.2
-2. Open the coax_pulse.aedt project 
+2. Open the coax_pulse.aedt project found in the zip folder you downloaded
 
 ## Questions before running a simulation: 
 
