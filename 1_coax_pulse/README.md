@@ -5,7 +5,10 @@
 Launch ANSYS Electronics Desktop: 
 
 1. Windows Start Menu -> Ansys EM Suite 19.2 -> ANSYS Electronics Desktop 2018.2
-2. Open the coax_pulse.aedt project found in the zip folder you downloaded
+2. Copy the zip folder you downloaded to a folder on your OneDrive
+3. 
+4. Open the coax_pulse.aedt project found in the zip folder you downloaded (ignore errors about being created with a different version of ANSYS)
+5. If you need to save the file you must save it to a different folder within your OneDrive. This is bizarre and I'm working with Tech Support to understand what is going on...
 
 ## Questions before running a simulation: 
 
