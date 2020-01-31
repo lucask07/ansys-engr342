@@ -1,5 +1,12 @@
 # Day 1 Introduction: Voltage pulse in a coaxial cable
 
+## Open the simulation files 
+
+Launch ANSYS Electronics Desktop: 
+
+1. Windows Start Menu -> Ansys EM Suite 19.2 -> ANSYS Electronics Desktop 2018.2
+2. Open the coax_pulse.aedt project 
+
 ## Questions before running a simulation: 
 
 1. Describe this circuit, think of the coaxial cables as wires in MultiSim.
