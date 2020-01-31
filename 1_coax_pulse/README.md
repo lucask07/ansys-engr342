@@ -2,7 +2,7 @@
 
 ## Questions before running a simulation: 
 
-1. Describe this circuit, think of the coax cables as wires in MultiSim.
+1. Describe this circuit, think of the coaxial cables as wires in MultiSim.
 2. What will happen?
 
 
