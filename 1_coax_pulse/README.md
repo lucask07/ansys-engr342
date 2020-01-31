@@ -31,6 +31,5 @@ Launch ANSYS Electronics Desktop:
 
 
 ## Finally, change the cable length and re-run 
-1. Click on *P* for both coaxial cables and change to 10 mm.
+1. Click on *P* for both coaxial cables and change to 10 mm. (saving the changes will fail unless you 'Save As' to a new folder. However, you can re-run the simulation without saving)
 2. Re-run the simulation. What changed? Why? 
-
