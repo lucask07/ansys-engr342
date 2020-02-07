@@ -25,6 +25,6 @@ Att = C1 \* sqrt(f_{GHz}) + C2 \* f_{GHz}
 
 Where C1 is the conductor loss coefficent and C2 is the dielectic loss coefficent. 
 
-Click on the coax, in these simulations C1 = 0.4, C2 = 0.0
+Click on the coax to check the properties: in these simulations C1 = 0.4, C2 = 0.0
 
 Use this equation to calculate the signal attenuation in the Excel spreadsheet. How close is the calculation to the simulated values? Upload your excel spreadsheet to Canvas. 
