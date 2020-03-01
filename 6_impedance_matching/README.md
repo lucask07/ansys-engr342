@@ -8,7 +8,7 @@ Launch ANSYS Electronics Desktop:
 2. Copy the zip folder you downloaded from Canvas to a folder on your OneDrive
 3. Extract the zip file to your OneDrive. Right click, *Extract All...* 
 4. Open the l_match.aedt project found in the zip folder you downloaded (ignore errors about being created with a different version of ANSYS)
-5. If you need to save the file you must save it to a different folder within your OneDrive. This is bizarre and I'm working with Tech Support to understand what is going on...
+5. If you need to save the file you must save it to a different folder within your OneDrive. This is bizarre...
 
 ## Questions before running the L-match simulation (RL = 200 Ohms): 
 
