@@ -22,7 +22,7 @@ Launch ANSYS Electronics Desktop:
 2. Next, click the + button to the left of *Circuit1*
 3. Right click *Analysis* and then left click *Analyze*
 4. Give the simulation a few seconds to execute
-5. Click the + button to the left of *Results* and then lift click on *Transient Voltage Plot 1*
+5. Click the + button to the left of *Results* and then double lift click on *Transient Voltage Plot 1*
 
 ## OK, now describe what you see! 
 1. Observation one
