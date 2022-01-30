@@ -21,8 +21,8 @@ Launch ANSYS Electronics Desktop:
 
 1. Click the + button to the left of *coax_pulse* in the Project Manager.
 2. Next, click the + button to the left of *Circuit1*
-3. Right click *Analysis* and then left click *Analyze*
-4. Give the simulation a few seconds to execute
+3. Right click *Analysis* and then left click *Analyze*  ![Alt text](docs/screenshots/analyze.png?raw=true "Analyze Screenshot")
+4. Allow the simulation a few seconds to execute
 5. Click the + button to the left of *Results* and then double lift click on *Transient Voltage Plot 1*
 
 ## OK, now describe what you see! 
