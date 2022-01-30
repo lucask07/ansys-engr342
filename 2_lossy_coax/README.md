@@ -1,4 +1,4 @@
-# Day 3 lossy cable: Coaxial cable attenuation
+# Lossy cable: Coaxial cable attenuation
 
 ## Open the simulation files 
 
