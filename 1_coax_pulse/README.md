@@ -5,7 +5,7 @@
 Launch ANSYS Electronics Desktop: 
 
 0. Setup your Microsoft OneDrive on the VM
-1. Windows Start Menu -> Ansys EM Suite 19.2 -> ANSYS Electronics Desktop 2018.2
+1. Windows Start Menu -> Ansys EM Suite 2021 R1 -> ANSYS Electronics Desktop 2021 R1
 2. Copy the zip folder you downloaded from Canvas to your OneDrive
 3. Extract the zip file to your OneDrive. Right click, *Extract All...* 
 4. Open the coax_pulse.aedt project found in the zip folder you downloaded (ignore errors about being created with a different version of ANSYS)
