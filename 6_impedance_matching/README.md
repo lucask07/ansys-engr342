@@ -21,7 +21,8 @@ Launch ANSYS Electronics Desktop:
 ## Now, run the L-match simulation 
 
 1. Inspect the S11. At what frequency is the match best? 
-2. Decrease the value of C by x2 and the value of L by x2. Now where is the center frequency? 
+2. Calculate the L and C values given the impedances from the L-match calculations and the center frequency found by simulation. Do your calculations match the L and C values on the simulation schematic?
+3. Decrease the value of C by x2 and the value of L by x2. Now where is the center frequency? 
 
 
 ## Open Narrow_Lambda/4.  
