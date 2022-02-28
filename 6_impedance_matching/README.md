@@ -28,7 +28,7 @@ Launch ANSYS Electronics Desktop:
 ## Open Narrow_Lambda/4.  
 
 1. Here we will match a 50 Ohm source to a 10 Ohm load.
-2. Click on the transmission line closest to the load port. Then click 'TRL' -> 'Analysis' -> 'Details'. What is the length of the line in degrees (at 1 GHz)? 
+2. Click on the transmission line closest to the load port. Then click 'TRL' -> 'Analysis' -> 'Details'. What is the length of the line in degrees (at 1 GHz) [click 'Analysis' and read the value in the box 'E']? 
 3. Run the simulation 'Analysis' -> 'Analyze'
 4. Inspect the S11 plot
 5. Inspect the S21 plot
