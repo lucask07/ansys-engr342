@@ -1,4 +1,4 @@
-# Impedance Matching: L-Match and Broadband and Narrow Band Lambda/4
+# Impedance Matching: L-Match and Broadband versus Narrowband Lambda/4
 
 ## Open the simulation files 
 
