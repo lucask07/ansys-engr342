@@ -41,3 +41,4 @@ Launch ANSYS Electronics Desktop:
 3. Run the simulation 'Analysis' -> 'Analyze'
 4. Inspect the S11 plot
 5. Inspect the S21 plot
+6. Compare the S21 of the broadband lambda/4 versus the narrowband lambda/4. 
