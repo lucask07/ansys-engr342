@@ -4,7 +4,7 @@
 
 Launch ANSYS Electronics Desktop: 
 
-1. Windows Start Menu -> Ansys EM Suite 19.2 -> ANSYS Electronics Desktop 2018.2
+1. Windows Start Menu -> Ansys EM Suite 2021 R1 -> ANSYS Electronics Desktop 2021
 2. Copy the zip folder you downloaded from Canvas to a folder on your OneDrive
 3. Extract the zip file to your OneDrive. Right click, *Extract All...* 
 4. Open the l_match.aedt project found in the zip folder you downloaded (ignore errors about being created with a different version of ANSYS)
