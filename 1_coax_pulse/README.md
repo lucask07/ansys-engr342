@@ -4,7 +4,6 @@
 
 Launch ANSYS Electronics Desktop: 
 
-0. Setup your Microsoft OneDrive on the VM
 1. Windows Start Menu -> Ansys EM Suite 2021 R1 -> ANSYS Electronics Desktop 2021 R1
 2. Copy the zip folder you downloaded from Canvas to your OneDrive
 3. Extract the zip file to your OneDrive. Right click, *Extract All...* 
@@ -25,7 +24,7 @@ Launch ANSYS Electronics Desktop:
 4. Allow the simulation a few seconds to execute
 5. Click the + button to the left of *Results* and then double lift click on *Transient Voltage Plot 1*
 
-## OK, now describe what you see! 
+## OK, now describe what you see
 1. Observation one
 2. Observation two 
 3. Others?
