@@ -22,7 +22,7 @@ Launch ANSYS Electronics Desktop:
 
 1. Inspect the S11. At what frequency is the match best? 
 2. Calculate the L and C values given the impedances from the L-match calculations and the center frequency found by simulation. Do your calculations match the L and C values on the simulation schematic?
-3. Decrease the value of C by x2 and decrease the value of L by x2. Now where is the center frequency? 
+3. Decrease the value of C by x2 and decrease the value of L by x2. Now, where is the center frequency? 
 
 
 ## Open Narrow_Lambda/4.  
@@ -30,8 +30,8 @@ Launch ANSYS Electronics Desktop:
 1. Here we will match a 50 Ohm source to a 10 Ohm load.
 2. Click on the transmission line closest to the load port. Then click 'TRL' -> 'Analysis' -> 'Details'. What is the length of the line in degrees (at 1 GHz) [click 'Analysis' and read the value in the box 'E']? 
 3. Run the simulation 'Analysis' -> 'Analyze'
-4. Inspect the S11 plot
-5. Inspect the S21 plot
+4. Inspect the S11 plot. What are your takeaways?
+5. Inspect the S21 plot. What are your takeaways?
 
 
 ## Open Broadband_Lambda/4.  
