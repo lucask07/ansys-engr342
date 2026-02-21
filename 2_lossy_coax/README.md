@@ -1,10 +1,10 @@
-# Day 3 lossy cable: Coaxial cable attenuation
+# Lossy cable: Coaxial cable attenuation
 
 ## Open the simulation files 
 
 Launch ANSYS Electronics Desktop: 
 
-1. Windows Start Menu -> Ansys EM Suite 19.2 -> ANSYS Electronics Desktop 2018.2
+1. Windows Start Menu -> ANSYS EM Suite -> ANSYS Electronics Desktop 
 2. Copy the zip folder you downloaded from Canvas to a folder on your OneDrive
 3. Extract the zip file to your OneDrive. Right click, *Extract All...* 
 4. Open the lossy_coax.aedt project found in the zip folder you downloaded (ignore errors about being created with a different version of ANSYS)
